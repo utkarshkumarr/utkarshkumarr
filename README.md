@@ -1,14 +1,31 @@
 # Hi, I'm Utkarsh Kumar 👋
 
-## 📊 About Me
-Aspiring Data Analyst passionate about transforming raw data into actionable insights using SQL, Power BI, Python, and Excel.
+<h3 align="center">Aspiring Data Analyst | SQL • Power BI • Python • Excel</h3>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
 
 - 🎓 BCA Student
+- 📊 Passionate about Data Analytics & Business Intelligence
 - 📈 Building HR, Sales, Marketing & Finance Dashboards
 - 🌱 Currently learning Advanced SQL, Python & Power BI
-- 🎯 Goal: Become a Data Analyst
+- 🎯 Goal: Become a Data Analyst at a reputed company
+
+---
 
 ## 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
+</p>
+
 - SQL
 - MySQL
 - Power BI
@@ -19,40 +36,33 @@ Aspiring Data Analyst passionate about transforming raw data into actionable ins
 - Matplotlib
 - Seaborn
 - Statistics
-- Git
-- GitHub
 - Generative AI
 - Jupyter Notebook
-- VS Code
 
-## 🌱 Currently Learning
-- Advanced SQL
-- DAX
-- Machine Learning
-- Scikit-learn
-- Flask
- 
+---
+
 ## 📂 Featured Projects
+
 - 📊 HR Analytics Dashboard
 - 📈 Sales Dashboard
 - 📣 Marketing Dashboard
 - 💰 Finance Dashboard
 - 💸 Personal Budget Tracker
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/utkarsh-kumar-0a95493b2?utm_source=share_via&utm_content=profile&utm_medium=member_android
+---
 
-<!--
-**utkarshkumarr/utkarshkumarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=utkarshkumarr&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-streak-stats.herokuapp.com/?user=utkarshkumarr&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshkumarr&layout=compact&theme=tokyonight)
+
+---
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=utkarshkumarr&color=blue)
+
+⭐ Thanks for visiting my profile!
